@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-    <html lang="ru">
-    <head>
-        <meta charset="UTF-8">
-        <title>Мое резюме</title>
-        <link rel="stylesheet" href="style.css">
-    </head>
 <body>
 <div id="header">
     <h1>Владмир Володин</h1>
